@@ -1,6 +1,6 @@
 // Your compliments go here
 const compliments = [
-    "Hi Emmy :)",
+    "Hi :)",
     "UwU",
     "Shrek rave",
     "Why'd you click",
